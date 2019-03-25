@@ -1,3 +1,3 @@
 # goodliterature
 让天下没有难找的文献！
-！[老人与海]（老人与海思维导图.jpg）
+！[老人与海]（https://github.com/goodqdy/goodliterature/blob/master/%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E7%BB%88%E7%89%88.jpg）
